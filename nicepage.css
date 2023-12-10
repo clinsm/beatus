@@ -42944,6 +42944,10 @@ a.u-link.u-text-hover-grey-90:hover {
 
  .u-footer {
   background-image: none;
+  position: absolute;
+left: 0;
+bottom: 0;
+width: 100%;
 }
 
 .u-footer .u-sheet-1 {
